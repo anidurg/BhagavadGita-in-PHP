@@ -1,0 +1,19 @@
+1	Chapter_1	47
+2	Chapter_2	72
+3	Chapter_3	43
+4	Chapter_4	42
+5	Chapter_5	29
+6	Chapter_6	47
+7	Chapter_7	30
+8	Chapter_8	28	
+9	Chapter_9	34
+10	Chapter_10	42
+11	Chapter_11	55
+12	Chapter_12	20
+13	Chapter_13	35
+14	Chapter_14	27
+15	Chapter_15	20
+16	Chapter_16	24
+17	Chapter_17	28
+18	Chapter_18	78
+
